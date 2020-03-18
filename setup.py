@@ -7,13 +7,14 @@ requirements = []
 
 setup(
     name="pyllama",
-    version="0.0.4",
+    version="v0.0.5",
     author="Yi Zhen",
     author_email="zhenyi@gmail.com",
     description="A package to machine learning algorithms",
     long_description=readme,
     long_description_content_type="text/markdown",
     url="https://github.com/camel4all/pyllama",
+    download_url="https://github.com/camel4all/pyllama/archive/v0.0.5.tar.gz",
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[
